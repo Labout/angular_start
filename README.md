@@ -1,1 +1,2 @@
-Just a repo for an angular quickstart 
+Just a repo for an angular quickstart.
+Nothing special
